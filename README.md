@@ -11,8 +11,8 @@ The structure of the To-Do List application includes:
 - Input Field: Allows users to type new tasks.
 - Add Button: Adds the entered task to the list when clicked.
 - Task List: An empty list (<ul> or <ol>) where tasks are displayed.
-2. CSS
 
+2. CSS
 The CSS file is used to style the application to ensure:
 
 - A clean and responsive layout.
