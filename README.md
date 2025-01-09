@@ -7,17 +7,17 @@ This project is a simple, interactive To-Do List application built with HTML, CS
 1. HTML
 
 The structure of the To-Do List application includes:
-A Heading: Displays the title of the application (e.g., "My To-Do List").
-Input Field: Allows users to type new tasks.
-Add Button: Adds the entered task to the list when clicked.
-Task List: An empty list (<ul> or <ol>) where tasks are displayed.
+-A Heading: Displays the title of the application (e.g., "My To-Do List").
+-Input Field: Allows users to type new tasks.
+-Add Button: Adds the entered task to the list when clicked.
+-Task List: An empty list (<ul> or <ol>) where tasks are displayed.
 
 2. CSS
 The CSS file is used to style the application to ensure:
 
-- A clean and responsive layout.
-- Proper spacing for better readability.
-- Usage of colors, fonts, and hover effects to enhance visual appeal.
+-A clean and responsive layout.
+-Proper spacing for better readability.
+-Usage of colors, fonts, and hover effects to enhance visual appeal.
 
 3. JavaScript
 
