@@ -2,19 +2,18 @@
 ## Overview
 This project is a simple, interactive To-Do List application built with HTML, CSS, and JavaScript. The application allows users to add, manage, and delete tasks in a visually appealing and user-friendly interface. It also includes optional features to enhance user experience, such as task reordering and persistent data storage.
 
-Task Requirements
+### Task Requirements
 
 1. HTML
 
 The structure of the To-Do List application includes:
+- A Heading: Displays the title of the application (e.g., "My To-Do List").
 
-A Heading: Displays the title of the application (e.g., "My To-Do List").
+- Input Field: Allows users to type new tasks.
 
-Input Field: Allows users to type new tasks.
+- Add Button: Adds the entered task to the list when clicked.
 
-Add Button: Adds the entered task to the list when clicked.
-
-Task List: An empty list (<ul> or <ol>) where tasks are displayed.
+- Task List: An empty list (<ul> or <ol>) where tasks are displayed.
 
 2. CSS
 
